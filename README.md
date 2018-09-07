@@ -9,7 +9,7 @@ A collection of all the data science projects done by me in the past. Codes are 
 
 Here is a list of project you will find in this repository:
 
-# 1. Cryptocurrency Exploration: The Bitcoin Market 
+## 1. Cryptocurrency Exploration: The Bitcoin Market 
 [![Hit-Counter](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Cryptocurrency%20Exploration.svg)](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Cryptocurrency%20Exploration) 
 
 This project aims to visualize the current scenario of various cryptocurrencies in market. An elaborate attempt has been made to understand the trends of various cryptocurrencies using my knowledge of Data Science, Statistics and Python. 
