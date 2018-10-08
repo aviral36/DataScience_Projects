@@ -17,8 +17,8 @@ This project aims to visualize the current scenario of various cryptocurrencies 
 <a href="https://github.com/aviral36/DataScience_Projects/tree/master/Cryptocurrency%20Exploration">View Project</a>
 
 ## 2. Machine Learning 
-[![Hit-Counter](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Cryptocurrency%20Exploration.svg)](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Cryptocurrency%20Exploration) 
+[![Hit-Counter](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Machine%20Learning.svg)](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Machine%20Learning) 
 
 This directory contains some machine learning models that I have built from scratch, without using any standard machine learning python library. Currently contains the IrisDataset, classified using Decision Tree.
 
-<a href="https://github.com/aviral36/DataScience_Projects/tree/master/Cryptocurrency%20Exploration">View Project</a>
+<a href="https://github.com/aviral36/DataScience_Projects/tree/master/Machine%20Learning">View Project</a>
