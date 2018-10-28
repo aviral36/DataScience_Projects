@@ -22,3 +22,5 @@ This project aims to visualize the current scenario of various cryptocurrencies 
 This directory contains some machine learning models that I have built from scratch, without using any standard machine learning python library. Currently contains the IrisDataset, classified using Decision Tree.
 
 <a href="https://github.com/aviral36/DataScience_Projects/tree/master/Machine%20Learning">View Project</a>
+
+google-site-verification: googlee704164cfe275f0a.html
