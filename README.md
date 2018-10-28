@@ -23,4 +23,3 @@ This directory contains some machine learning models that I have built from scra
 
 <a href="https://github.com/aviral36/DataScience_Projects/tree/master/Machine%20Learning">View Project</a>
 
-google-site-verification: googlee704164cfe275f0a.html
