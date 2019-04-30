@@ -16,7 +16,16 @@ This project aims to visualize the current scenario of various cryptocurrencies 
 
 <a href="https://github.com/aviral36/DataScience_Projects/tree/master/Cryptocurrency%20Exploration">View Project</a>
 
-## 2. Machine Learning 
+
+## 2. Stock Trend Prediction Using News Headlines
+[![Hit-Counter](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Sentiment_Analysis.svg)](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Sentiment_Analysis)
+
+In this Project, we intend to generate investing insight by applying sentiment analysis on financial news headlines from Finviz. Using this natural language processing technique, we will try to understand the emotion behind the headlines and predict whether the market feels good or bad about a stock.
+
+<a href="https://github.com/aviral36/DataScience_Projects/tree/master/Sentiment_Analysis">View Project</a>
+
+
+## 3. Machine Learning 
 [![Hit-Counter](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Machine%20Learning.svg)](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Machine%20Learning) 
 
 This directory contains some machine learning models that I have built from scratch, without using any standard machine learning python library. Currently contains the IrisDataset, classified using Decision Tree.
