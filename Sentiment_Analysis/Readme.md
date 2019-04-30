@@ -1,5 +1,9 @@
 # Stock Trend Prediction Using News Headlines
 
+[![Hit-Counter](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Sentiment_Analysis.svg)](http://hits.dwyl.io/aviral36/DataScience_Projects/tree/master/Sentiment_Analysis)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
 ### Project Summary
  
 In earlier days, it used to take days for financial news to spread via radio, newspapers, and word of mouth. Now, in the age of the internet, it takes seconds. As a fact, news articles are automatically being generated from figures and earnings call streams. In this Project, we intend to generate investing insight by applying sentiment analysis on financial news headlines from Finviz. Using this natural language processing technique, we will try to understand the emotion behind the headlines and predict whether the market feels good or bad about a stock.
